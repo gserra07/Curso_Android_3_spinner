@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Curso Android 3</string>
+    <string name="primera_indicación">Escribe aquí el primer número</string>
+    <string name="segunda_indicación">Escribe aquí el segundo número</string>
+    <string name="Button_Sum_Text">Sumar</string>
+    <string name="resultado">Resultado</string>
+</resources>
